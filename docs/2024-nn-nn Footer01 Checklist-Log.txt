@@ -59,7 +59,6 @@ Operation Name             Operation explanation or details  Initials
 =====================================================================
 How to Test This Component:
 ---------------------------
-=====================================================================
                                                               Your
 Test Step to Do            Test Step details                 Initials
 -------------------------  --------------------------------- --------
