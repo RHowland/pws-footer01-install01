@@ -1,0 +1,73 @@
+2024-nn-nn Footer01 Checklist-Log.txt
+=====================================================================
+This checklist is designed to: 
+- give YOU (the developer) the minimal information that you need to 
+  install the Footer01 component into a Next.js web app.
+
+- serve as a check list that you will fill out, step by step to make 
+  sure that you do this install 100% correctly. 
+
+- serve as a report that YOU will give to management to show them 
+  that you installed this component correctly. 
+
+  If you need more information about this install, 
+  - Read this document: Footer01 Component Install Guide.txt
+  - Contact your manager.
+
+---------------------------------------------------------------------
+IMPORTANT INSTRUCTIONS !! 
+  Type your initials after you perform every operation.
+  DO NOT WAIT UNTIL THE VERY END TO TYPE YOUR INITIALS.
+  
+FINAL STEP TO DO: 
+- Save this document in this folder (Web App Project)./docs/installs 
+- SAVE THIS FILE AS "(Date Completed) Footer01 Checklist-Log.txt"
+
+  Example SAVE AS name:  2404-07-02 Footer01 Checklist-Log.txt
+
+=====================================================================
+Project/Developer Details:
+--------------------------
+ Developer Name       :
+ Date Completed       : 
+ Web App Project Name :
+   
+=====================================================================
+Copy these files to the target folders:
+---------------------------------------
+                                                              Your
+File Name                 Target Folder Name                 Initials
+------------------------  ---------------------------------- --------
+(file name)               (folder path)
+(file name)               (folder path)
+(file name)               (folder path)
+
+
+
+=====================================================================
+Important Operations to Do: 
+---------------------------
+                                                              Your
+Operation Name             Operation explanation or details  Initials
+-------------------------  --------------------------------- --------
+(title of thing to do)     (details)
+(title of thing to do)     (details)
+(title of thing to do)     (details)
+
+
+
+=====================================================================
+How to Test This Component:
+---------------------------
+=====================================================================
+                                                              Your
+Test Step to Do            Test Step details                 Initials
+-------------------------  --------------------------------- --------
+(title of thing to do)     (details)
+(title of thing to do)     (details)
+(title of thing to do)     (details)
+
+
+
+=====================================================================
+(End of Document) 
